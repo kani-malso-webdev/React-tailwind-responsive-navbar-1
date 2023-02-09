@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-tailwind-responsive-navbar-1/static/css/main.995c1f21.css",
+    "main.js": "/React-tailwind-responsive-navbar-1/static/js/main.0b60b387.js",
+    "static/js/787.4c17be21.chunk.js": "/React-tailwind-responsive-navbar-1/static/js/787.4c17be21.chunk.js",
+    "index.html": "/React-tailwind-responsive-navbar-1/index.html",
+    "main.995c1f21.css.map": "/React-tailwind-responsive-navbar-1/static/css/main.995c1f21.css.map",
+    "main.0b60b387.js.map": "/React-tailwind-responsive-navbar-1/static/js/main.0b60b387.js.map",
+    "787.4c17be21.chunk.js.map": "/React-tailwind-responsive-navbar-1/static/js/787.4c17be21.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.995c1f21.css",
+    "static/js/main.0b60b387.js"
+  ]
+}
